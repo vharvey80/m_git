@@ -3,6 +3,6 @@ class ProblemSolver {
 		char my_char = "a";
 
 		public ProblemSolver {
-			System.out.println(ny_num + " / " + my_char);	
+			System.out.println(my_num + " / " + my_char);	
 		}
 }
